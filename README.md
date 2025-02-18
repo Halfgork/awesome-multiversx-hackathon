@@ -76,7 +76,7 @@ This community-maintained repo is designed for MultiversX Hackathon participants
 Please read our [Contributing Guide](CONTRIBUTING.md) before submitting a pull request. Thank you to all contributors!
 
 ## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Distributed under the BSD 3-Clause "New" or "Revised" License. See [LICENSE](LICENSE) for more information.
 
 ---
 
