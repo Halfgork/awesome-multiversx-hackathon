@@ -72,6 +72,12 @@ This community-maintained repo is designed for MultiversX Hackathon participants
 ## Wallets
 - [Wallets](https://docs.multiversx.com/wallet/overview) - Wallets - Overview
 
+## Engage the developer community 
+- [Discord](https://discord.com/invite/multiversxbuilders) - Discord
+- [Telegram](https://t.me/MultiversX) - Telegram
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/multiversx) - Stack Overflow
+
+
 ## Contributing
 Please read our [Contributing Guide](CONTRIBUTING.md) before submitting a pull request. Thank you to all contributors!
 
