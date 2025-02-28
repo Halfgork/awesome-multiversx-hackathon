@@ -14,7 +14,9 @@ This community-maintained repo is designed for MultiversX Hackathon participants
 - [DeFi and Payments](#defi-and-payments)
 - [NFTs and Collectibles](#nfts-and-collectibles)
 - [Governance](#governance)
-- [Social and Content](#social-and-content)
+- [Wallets](#wallets)
+- [Engage the Developer Community](#Engage-the-Developer-Community)
+- [AI_MegaWave Hackathon - Grant Programs](#AI_MegaWave-Hackathon-Grant-Programs)
 
 ## Development Resources
 - [MultiversX Developer Documentation](https://docs.multiversx.com) - Official documentation for developers
@@ -72,7 +74,7 @@ This community-maintained repo is designed for MultiversX Hackathon participants
 ## Wallets
 - [Wallets](https://docs.multiversx.com/wallet/overview) - Wallets - Overview
 
-## Engage the developer community 
+## Engage the Developer Community 
 - [Discord](https://discord.com/invite/multiversxbuilders) - Discord
 - [Telegram](https://t.me/MultiversX) - Telegram
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/multiversx) - Stack Overflow
