@@ -77,6 +77,10 @@ This community-maintained repo is designed for MultiversX Hackathon participants
 - [Telegram](https://t.me/MultiversX) - Telegram
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/multiversx) - Stack Overflow
 
+## AI_MegaWave Hackathon - Grant Programs
+- [AI_MegaWave Hackathon](https://multiversx.com/ai-megawave)
+- [Grant Programs](https://multiversx.com/growthgames)
+
 
 ## Contributing
 Please read our [Contributing Guide](CONTRIBUTING.md) before submitting a pull request. Thank you to all contributors!
